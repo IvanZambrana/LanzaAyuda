@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN"
+"http://java.sun.com/products/javahelp/toc_2_0.dtd">
+<toc version="2.0">
+    <tocitem text="Inicio" target="inicio"/>
+    <tocitem text="Login" target="login"/>
+    <tocitem text="Menu Principal" target="menu"/>
+    <tocitem text="Matricula" target="matricula"/>
+    <tocitem text="Cursos" target="curso"/>
+    <tocitem text="Alumnos" target="alumnos"/>
+    <tocitem text="Informes" target="informes"/>
+    <tocitem text="Ayuda" target="ayuda"/>
+</toc>
